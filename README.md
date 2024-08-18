@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/Paylater666/task4-swisstronik-perc20-mint-token.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd task4-swisstronik-perc20-mint-token
 ```
 
 ### 2. Install Dependency
